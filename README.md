@@ -1,5 +1,7 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
+Non-fungible token (NFT) art refers to digital assets stored on a blockchain that represent content or even physical items. Art mediums that NFTs can represent include digital drawings, paintings, music, film, poetry, or books. NFT art allows artists to sell or rent their artwork beyond the physical world.
+
 ## Getting Started
 
 First, run the development server:
